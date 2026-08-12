@@ -1,5 +1,5 @@
 let aluno = {
-    nome: "Jaqueline",
+    nome: "Aluno(a)",
     idade: 15,
     notas: [8.5, 6.0, 7.2],
 
